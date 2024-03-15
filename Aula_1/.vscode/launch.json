@@ -5,7 +5,7 @@
             "name": "C/C++: GCC Debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/debug/main",
+            "program": "${workspaceFolder}/debug/main.bin",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",

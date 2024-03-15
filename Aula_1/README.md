@@ -23,3 +23,11 @@ $ cmake ..
 $ make
 $ ./main.bin
 ```
+
+## Debug
+```bash
+$ cd debug
+$ gcc -O0 -g3  main.c -o main.bin
+```
+
+Depois clicar no botão de debug do vscode
