@@ -26,6 +26,5 @@ Arquivos de demo introdutórios para rodar no VSCode
 * Desafio 2 - Leitura de ADC por DMA
 
 # Aula 5
-* Demo - Multiple Headers and Sources
 * Desafio 1 - Recebimento de dados pela UART
 * Desafio 2 - Transmissão de de dados pela UART
