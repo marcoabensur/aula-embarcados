@@ -28,3 +28,6 @@ Arquivos de demo introdutórios para rodar no VSCode
 # Aula 5
 * Desafio 1 - Recebimento de dados pela UART
 * Desafio 2 - Transmissão de de dados pela UART
+
+# Aula 6
+* Projeto - Sensor de Luminosidade ADC + PWM + Potenciometro + Led + Botão
